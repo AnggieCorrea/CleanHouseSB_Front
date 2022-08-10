@@ -1,0 +1,7 @@
+img {
+    height: 500px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(108%);
+}
